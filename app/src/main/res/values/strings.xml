@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="upload_data">upload_data</string>
+    <string name="retrieve_data">retrieve_data</string>
+</resources>
